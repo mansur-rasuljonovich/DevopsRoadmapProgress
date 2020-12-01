@@ -1,2 +1,2 @@
 # DevopsRoadmapProgress
-![](screenshots/Screenshot from 2020-11-28 09-22-17.png)
+![](screenshots/Screenshot%20from%202020-11-28%2009-22-17.png)
